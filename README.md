@@ -10,4 +10,4 @@ This is the public repository for reporting bugs, suggesting features, and provi
 **Note:** This repository is for feedback only. The source code of Zhift is proprietary and not hosted here.
 
 ---
-© 2026 lokmanelouk
+© 2026 LokmaneX22
